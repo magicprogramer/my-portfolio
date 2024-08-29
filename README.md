@@ -1,12 +1,11 @@
-![image](https://github.com/user-attachments/assets/56b074ed-a7f5-4872-9247-d409991bf03a)
-
 # My Portfolio Project
 
-This is my portfolio project created by WordPress.
+This is my portfolio
 
 ## 🎥 Project Overview
 
-[![Watch the video](https://i9.ytimg.com/vi_webp/SFgUHBZwacA/mqdefault.webp)](https://youtu.be/9GPdvOJG6lg)
+[![Watch the video](https://i9.ytimg.com/vi_webp/cmpvaY4qIAc/mq2.webp?sqp=CJjKwbYG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYACrgWKAgwIABABGCAgWyh_MA8=&rs=AOn4CLBo-nDSHjLX8UJjKSzu9w4e-lc7yA)](https://youtu.be/cmpvaY4qIAc)
+
 
 ## 🌐 Hosted Site
 

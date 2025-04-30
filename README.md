@@ -9,7 +9,7 @@ This is my portfolio
 
 ## 🌐 Hosted Site
 
-[Visit the hosted site on Pantheon.io](https://dev-my-portfolio-site-201.pantheonsite.io/)
+[Visit the hosted site on Pantheon.io](https://dev-my-portfolio-site-201.pantheonsite.io/) (Currently down)
 
 ## 🛠️ Used Technologies & Tools
 
